@@ -17,4 +17,4 @@ python3 use.py path_to_image
 ```
 
 ### Results
-![alt text](https://github.com/miki998/beauty_evaluate/outscarlett.jpg "Logo Title Text 1")
+![alt text](https://github.com/miki998/beauty_evaluate/blob/master/outscarlett.jpg "Logo Title Text 1")
