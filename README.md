@@ -11,7 +11,10 @@ evaluate the attractiveness of a face. Goal: sort of discover the facial feature
 - use.py: main script to test out the model
 
 ### Usage
-You need to first get the weight "beau.h5" you can ask me through email for that (Please also consider following my (medium)[https://medium.com/@michaelchan_2146] and github!) and then put the weight in the root folder of the repository.
+You need to first get the weight "beau.h5" you can ask me through email for that (Please also consider following my [medium](https://medium.com/@michaelchan_2146) and github!) and then put the weight in the root folder of the repository.
 ```
 python3 use.py path_to_image
 ```
+
+### Results
+![alt text](https://github.com/miki998/beauty_evaluate/outscarlett.jpg "Logo Title Text 1")
